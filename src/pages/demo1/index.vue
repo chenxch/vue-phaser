@@ -1,6 +1,5 @@
 <script setup lang="ts">
-import { onMounted, ref } from 'vue'
-import { $ref } from 'vue/macros'
+import { onMounted } from 'vue'
 import Phaser from 'phaser'
 
 let game = null
