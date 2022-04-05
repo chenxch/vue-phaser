@@ -6,7 +6,7 @@
 </p>
 
 <p align='center'>
-<b>English</b> | <a href="https://github.com/chenxch/vue-phaser/blob/main/README.zh-CN.md">简体中文</a>
+<a href="https://github.com/chenxch/vue-phaser/blob/main/README.zh-CN.md">English</a> | 简体中文</b>
 </p>
 
 # vue-phaser
@@ -14,13 +14,13 @@
 <br>
 
 ```html
-This is the first phaser3 game project I have developed.
+vue x phaser3项目.
 ```
 
-### GameList
+### 游戏列表
 
-- demo1 - phaser official tutorial demo
-- demo2 - FlappyBird developed based on phaser
+- demo1 - phaser官方教程demo
+- demo2 - 基于phaser开发的像素鸟(FlappyBird)
 <p>
 <img src="https://cdn.jsdelivr.net/gh/chenxch/pic-image@master/20220406/bird6.6er86n030440.gif">
 </p>
